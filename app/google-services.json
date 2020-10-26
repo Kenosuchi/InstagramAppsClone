@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769385291553",
+    "firebase_url": "https://instagramapps-79247.firebaseio.com",
+    "project_id": "instagramapps-79247",
+    "storage_bucket": "instagramapps-79247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769385291553:android:a886602cc39fa9f9da6860",
+        "android_client_info": {
+          "package_name": "com.example.instagramapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769385291553-re6dodem9ar62l0mrrd91rl9agbmaul2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDRG5t1h5Z15B01Eh04CbSRismM_YYqV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769385291553-re6dodem9ar62l0mrrd91rl9agbmaul2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
